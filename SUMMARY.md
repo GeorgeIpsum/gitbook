@@ -1,15 +1,18 @@
 # Table of contents
 
-* [Hello, world](README.md)
-* [utility functions](utility-functions.md)
-* [music](music.md)
-* [fruition](fruition.md)
-* [wonka](wonka.md)
-* [cat.exe](cat.exe.md)
-* [ue4](ue4.md)
+* [hello, world](README.md)
+* [about this wiki](about-this-wiki.md)
+* [quotes](quotes.md)
+
+## Projects
+
+* [fruition](projects/fruition.md)
+* [little chef](projects/little-chef.md)
+* [rose\(blue\)](projects/rose-blue.md)
 
 ## code
 
+* [utility functions](code/utility-functions.md)
 * [git](code/git.md)
 * [php](code/php/README.md)
   * [laravel](code/php/laravel.md)
@@ -17,7 +20,9 @@
   * [browser extensions](code/javascript-and-typescript/browser-extensions.md)
   * [node](code/javascript-and-typescript/node.md)
   * [npm](code/javascript-and-typescript/npm.md)
-  * [react](code/javascript-and-typescript/react.md)
+  * [react](code/javascript-and-typescript/react/README.md)
+    * [react native](code/javascript-and-typescript/react/react-native.md)
+    * [mobx-state-tree](code/javascript-and-typescript/react/mobx-state-tree.md)
 * [css](code/css.md)
 * [swift](code/swift.md)
 * [ruby](code/ruby/README.md)
@@ -30,14 +35,32 @@
 
 ## concepts
 
+* [data structures](concepts/data-structures.md)
+* [algorithms](concepts/algorithms.md)
 * [design patterns](concepts/design-patterns.md)
 * [networking](concepts/networking.md)
 * [encryption](concepts/encryption.md)
 * [ml](concepts/ml.md)
+* [music theory](concepts/music-theory.md)
+* [stats](concepts/stats/README.md)
+  * [effect size](concepts/stats/effect-size.md)
+* [containerization](concepts/containerization.md)
+
+## Gamedev
+
+* [ue4](gamedev/ue4.md)
+* [blender](gamedev/blender.md)
 
 ## games
 
 * [dota](games/dota.md)
 * [pokemon](games/pokemon.md)
 * [minecraft](games/minecraft.md)
+
+## For Fun
+
+* [musings](for-fun/musings.md)
+* [music](for-fun/music.md)
+* [cat.exe](for-fun/cat.exe.md)
+* [wonka](for-fun/wonka.md)
 
