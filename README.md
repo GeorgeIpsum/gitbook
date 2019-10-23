@@ -1,10 +1,6 @@
----
-description: >-
-  This is my personal knowledge base: random snippets of information that I've
-  picked up by browsing the web or reading elsewhere.
----
-
 # Hello, world
+
+This is my personal knowledge base: random snippets of information that I've picked up by browsing the web or reading elsewhere.
 
 ## What sort of things are you gonna put here?
 
