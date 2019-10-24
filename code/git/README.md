@@ -6,20 +6,6 @@ description: push --force; never again
 
 ## Installing git
 
-### On Linux
-
-For Debian-based distros \(Ubuntu, etc\):
-
-```bash
-sudo apt install git-all
-```
-
-For Fedora/ RPM-based distros \(RHEL, CentOS, etc\):
-
-```bash
-sudo dnf install git-all
-```
-
 ### On macOS
 
 Allegedly since OS X 10.9 git will install itself if its not installed already by just running the command in the shell:
@@ -39,6 +25,20 @@ choco install git
 ```
 
 Or you can install it from the [Git for Windows project](https://gitforwindows.org/).
+
+### On Linux
+
+For Debian-based distros \(Ubuntu, etc\):
+
+```bash
+sudo apt install git-all
+```
+
+For Fedora/ RPM-based distros \(RHEL, CentOS, etc\):
+
+```bash
+sudo dnf install git-all
+```
 
 
 

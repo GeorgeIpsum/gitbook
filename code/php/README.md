@@ -6,7 +6,7 @@ description: mom... do we HAVE to use php...
 
 ## Installing php
 
-### Install on macos
+### On macOS
 
 brew everything:
 
@@ -45,7 +45,7 @@ curl -s http://php-osx.liip.ch/install.sh | bash -s 7.3
 
 This only installs php and not apache \(but does use macos' native apache install\)
 
-### Install on windows
+### On Windows
 
 Before you do this, consider the following:
 
@@ -57,7 +57,7 @@ Still need to install on windows? [Download the source from here](https://window
 
 [Or, even better yet, use XAMPP](https://www.apachefriends.org/index.html).
 
-### Install on linux
+### On Linux
 
 This should only work for Debian-based distros since I have never seen a red hat in my entire life.
 

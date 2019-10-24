@@ -4,11 +4,11 @@ description: also other web dev things
 
 # javascript/ typescript
 
-## Installing javascript
+## Installing JavaScript
 
 hahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha
 
-## Installing typescript
+## Installing TypeScript
 
 Make sure node is installed:
 
