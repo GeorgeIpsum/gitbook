@@ -72,4 +72,6 @@
 * [music](for-fun/music.md)
 * [cat.exe](for-fun/cat.exe.md)
 * [wonka](for-fun/wonka.md)
+* [articles](for-fun/articles/README.md)
+  * [Where is NOTEPAD in Windows 10?](for-fun/articles/where-is-notepad-in-windows-10.md)
 
