@@ -6,9 +6,7 @@ description: 'and now, the weather'
 
 ## about this section
 
-Most of these quotes aren't profound. You're not gonna see Bukowski here \(probably\), but you are gonna see quotes from random NPCs in random games or quotes from anonymous commenters online that had no business saying what they just said.
-
-Please don't take most of these too seriously. Thanks.
+These aren't quotes you'd see on your Momentum dashboard. It's just a hodge podge of random quotes I've found on the internet or through things I've watched, read, or listened to. Some of them are clowney. Please don't think about it too hard!
 
 ## quotes from books
 
@@ -31,10 +29,6 @@ Please don't take most of these too seriously. Thanks.
 ### _Joshua Graham, Fallout: New Vegas_
 
 > I survived because the fire inside me burned brighter than the fire around me.
-
-### _Gravemind, Halo 2_
-
-> I am a monument to all your sins.
 
 ### _Sheik, The Legend of Zelda: Ocarina of Time_
 

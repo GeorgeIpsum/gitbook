@@ -1,5 +1,5 @@
 ---
-description: detailing thigns I've run into in the process of building fruition
+description: gettings things done has never been easier
 ---
 
 # fruition

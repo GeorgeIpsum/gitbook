@@ -3,6 +3,9 @@
 * [hello, world](README.md)
 * [about this wiki](about-this-wiki.md)
 * [quotes](quotes.md)
+* [environment](environment/README.md)
+  * [macos](environment/macos.md)
+  * [windows](environment/windows.md)
 
 ## Projects
 
@@ -13,7 +16,10 @@
 ## code
 
 * [utility functions](code/utility-functions.md)
-* [git](code/git.md)
+* [git](code/git/README.md)
+  * [cheat sheet](code/git/cheat-sheet.md)
+  * [config](code/git/config.md)
+  * [access git:// behind proxy](code/git/access-git-behind-proxy.md)
 * [php](code/php/README.md)
   * [laravel](code/php/laravel.md)
 * [javascript/ typescript](code/javascript-and-typescript/README.md)
@@ -32,6 +38,7 @@
 * [go](code/go.md)
 * [shell](code/shell.md)
 * [powershell](code/powershell.md)
+* [text rendering](code/text-rendering.md)
 
 ## concepts
 
