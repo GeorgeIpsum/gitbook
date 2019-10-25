@@ -1,8 +1,4 @@
----
-description: 'writen mostly in javascript, other lang examples sometimes available'
----
-
-# utility functions
+# uuid/ guid
 
 ## uuidv4
 
@@ -16,5 +12,5 @@ const uuidv4 = () => {
 }
 ```
 
-This isn't the best because it uses `Math.random()` which has its limitations, namely not being cryptographically secure.
+This isn't the best because it uses `Math.random()` which has its limitations, namely not being cryptographically secure. 
 

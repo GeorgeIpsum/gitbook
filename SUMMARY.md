@@ -15,7 +15,6 @@
 
 ## code
 
-* [utility functions](code/utility-functions.md)
 * [git](code/git/README.md)
   * [cheat sheet](code/git/cheat-sheet.md)
   * [config](code/git/config.md)
@@ -27,6 +26,8 @@
   * [react](code/javascript-and-typescript/react/README.md)
     * [react native](code/javascript-and-typescript/react/react-native.md)
     * [mobx-state-tree](code/javascript-and-typescript/react/mobx-state-tree.md)
+    * [redux](code/javascript-and-typescript/react/redux.md)
+  * [$](code/javascript-and-typescript/usd.md)
 * [css](code/css.md)
 * [php](code/php/README.md)
   * [composer](code/php/composer.md)
@@ -34,12 +35,15 @@
 * [swift](code/swift.md)
 * [ruby](code/ruby/README.md)
   * [rails](code/ruby/rails.md)
-  * [jekyll](code/ruby/jekyll.md)
+  * [jekyll](code/ruby/jekyll/README.md)
+    * [Linking to next/ previous post](code/ruby/jekyll/linking-to-next-previous-post.md)
+* [python](code/python/README.md)
+  * [pip](code/python/pip.md)
 * [rust](code/rust.md)
 * [go](code/go.md)
 * [shell](code/shell.md)
 * [powershell](code/powershell.md)
-* [text rendering](code/text-rendering.md)
+* [utility functions](code/utility-functions.md)
 
 ## concepts
 
@@ -47,6 +51,8 @@
 * [algorithms](concepts/algorithms.md)
 * [design patterns](concepts/design-patterns.md)
 * [networking](concepts/networking/README.md)
+  * [load balancing](concepts/networking/load-balancing.md)
+  * [rest](concepts/networking/rest.md)
   * [http](concepts/networking/http.md)
 * [encryption](concepts/encryption.md)
 * [ml](concepts/ml.md)
@@ -54,6 +60,11 @@
 * [stats](concepts/stats/README.md)
   * [effect size](concepts/stats/effect-size.md)
 * [containerization](concepts/containerization.md)
+* [text rendering](concepts/text-rendering.md)
+* [prng](concepts/prng/README.md)
+  * [mersenne twister](concepts/prng/mersenne-twister.md)
+  * [implementation in JS V8 engine](concepts/prng/implementation-in-js-v8-engine.md)
+  * [uuid/ guid](concepts/prng/uuid-guid.md)
 
 ## Gamedev
 
@@ -73,5 +84,6 @@
 * [cat.exe](for-fun/cat.exe.md)
 * [wonka](for-fun/wonka.md)
 * [articles](for-fun/articles/README.md)
+  * [How to Increase Your Page Size by 1,500% with webpack and Vue](for-fun/articles/how-to-increase-your-page-size-by-1-500-with-webpack-and-vue.md)
   * [Where is NOTEPAD in Windows 10?](for-fun/articles/where-is-notepad-in-windows-10.md)
 
