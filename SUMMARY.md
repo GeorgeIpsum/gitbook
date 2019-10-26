@@ -65,6 +65,7 @@
   * [mersenne twister](concepts/prng/mersenne-twister.md)
   * [implementation in JS V8 engine](concepts/prng/implementation-in-js-v8-engine.md)
   * [uuid/ guid](concepts/prng/uuid-guid.md)
+* [markov chains](concepts/markov-chains.md)
 
 ## Gamedev
 
