@@ -16,5 +16,5 @@ const uuidv4 = () => {
 }
 ```
 
-This isn't the best because it uses `Math.random()` which has its limitations, namely [not being cryptographically secure](../concepts/prng/implementation-in-js-v8-engine.md).
+This isn't the best because it uses `Math.random()` which has its limitations, namely [not being cryptographically secure](../concepts/computer-science/prng/implementation-in-js-v8-engine.md).
 
