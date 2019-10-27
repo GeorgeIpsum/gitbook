@@ -64,7 +64,7 @@ git push origin master
 
 ## Other Resources
 
-![Found at http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/](../../.gitbook/assets/image.png)
+![Found at http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/](../../.gitbook/assets/image%20%281%29.png)
 
 \_\_[_PDF found here_](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)\_\_
 

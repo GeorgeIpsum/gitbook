@@ -32,6 +32,7 @@
 * [php](code/php/README.md)
   * [composer](code/php/composer.md)
   * [laravel](code/php/laravel.md)
+  * [wordpress](code/php/wordpress.md)
 * [swift](code/swift.md)
 * [ruby](code/ruby/README.md)
   * [rails](code/ruby/rails.md)
@@ -60,12 +61,16 @@
 * [stats](concepts/stats/README.md)
   * [effect size](concepts/stats/effect-size.md)
 * [containerization](concepts/containerization.md)
-* [text rendering](concepts/text-rendering.md)
 * [prng](concepts/prng/README.md)
   * [mersenne twister](concepts/prng/mersenne-twister.md)
   * [implementation in JS V8 engine](concepts/prng/implementation-in-js-v8-engine.md)
   * [uuid/ guid](concepts/prng/uuid-guid.md)
 * [markov chains](concepts/markov-chains.md)
+
+## Graphics
+
+* [shaders](graphics/shaders.md)
+* [text rendering](graphics/text-rendering.md)
 
 ## Gamedev
 
