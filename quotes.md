@@ -8,11 +8,15 @@ description: 'and now, the weather'
 
 These aren't quotes you'd see on your Momentum dashboard. It's just a hodge podge of random quotes I've found on the internet or through things I've watched, read, or listened to. Some of them are clowney. Please don't think about it too hard!
 
-## quotes from books
+## quotes from books or poetry
 
 ### _Sara Ahmed, The Promise of Happiness_
 
 > There is nothing more vulnerable than caring for someone; it means not only giving your energy to that which is not you but also caring for that which is beyond or outside your control. Caring is anxious—to be full of care, to be careful, is to take care of things by becoming anxious about their future, where the future is embodied in the fragility of an object whose persistence matters. Becoming caring is not about becoming good or nice: people who have “being caring” as their ego ideal often act in quite uncaring ways in order to protect their good image of themselves. To care is not about letting an object go but holding on to an object by letting oneself go, giving oneself over to something that is not one’s own.
+
+### _Callista Buchen, Taking Care_
+
+> I sit with my grief. I mother it. I hold its small, hot hand. I don't say, shhh. I don't say, it's okay. I wait until it is done having feelings. Then we stand and we go wash the dishes.
 
 ## quotes from movies
 
@@ -25,10 +29,6 @@ These aren't quotes you'd see on your Momentum dashboard. It's just a hodge podg
 ### _dril_
 
 > I will face God and walk backwards into Hel
-
-### _Joshua Graham, Fallout: New Vegas_
-
-> I survived because the fire inside me burned brighter than the fire around me.
 
 ### _Sheik, The Legend of Zelda: Ocarina of Time_
 
