@@ -70,6 +70,7 @@
   * [floating point math](concepts/computer-science/floating-point-math.md)
   * [oop](concepts/computer-science/oop.md)
   * [containerization](concepts/computer-science/containerization.md)
+* [l-systems](concepts/l-systems.md)
 
 ## Graphics
 

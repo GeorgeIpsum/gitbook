@@ -63,7 +63,7 @@ For scripts like Arabic, you cannot correctly draw text character-by-character, 
 
 Cursive scripts typically intersect individual glyphs to prevent seams from showing, which causes problems when opacity is lowered, particularly in Firefox or Chrome \(e.g. मनीष منش\):
 
-![ruh roh](../.gitbook/assets/image%20%286%29.png)
+![ruh roh](../.gitbook/assets/image%20%288%29.png)
 
 Firefox and Chrome will cheat by trying to draw characters individually; correct implementations will draw text to a temporary surface that has no transparency and then composite that entire cursive text to the screen with transparency.
 
@@ -73,11 +73,11 @@ Firefox and Chrome don't do this because it's expensive and is typically unneces
 
 Cursive scripts can have style changes \(e.g. color changes\) mid ligature. This is handled poorly in pretty much all major browsers:
 
-![Safari: everything breaks](../.gitbook/assets/image%20%285%29.png)
+![Safari: everything breaks](../.gitbook/assets/image%20%287%29.png)
 
-![Chrome: some style implementation is thrown away](../.gitbook/assets/image%20%287%29.png)
+![Chrome: some style implementation is thrown away](../.gitbook/assets/image%20%2812%29.png)
 
-![Firefox: styles haphazardly applied at random straight line breaks across the ligature](../.gitbook/assets/image%20%283%29.png)
+![Firefox: styles haphazardly applied at random straight line breaks across the ligature](../.gitbook/assets/image%20%285%29.png)
 
 There's no standard for how to handle style changing mid-ligature, so it pretty much always sucks. Firefox \(which has probably the best handling\) draws the ligature multiple times with buest-guess masks and different colors.
 
@@ -158,7 +158,7 @@ Firefox uses what's called a microfont to kill the creator and sink the heavens.
 
 The above tofu becomes:
 
-![see the characters rendered inside the tofu? What&apos;s wrong with mozilla engineers?](../.gitbook/assets/image%20%284%29.png)
+![see the characters rendered inside the tofu? What&apos;s wrong with mozilla engineers?](../.gitbook/assets/image%20%286%29.png)
 
 ### Style Is A Part Of The Font
 
