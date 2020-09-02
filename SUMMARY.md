@@ -2,7 +2,6 @@
 
 * [hello, world](README.md)
 * [about this wiki](about-this-wiki.md)
-* [quotes](quotes.md)
 * [environment](environment/README.md)
   * [macos](environment/macos.md)
   * [windows](environment/windows.md)
@@ -97,4 +96,5 @@
 * [articles](for-fun/articles/README.md)
   * [How to Increase Your Page Size by 1,500% with webpack and Vue](for-fun/articles/how-to-increase-your-page-size-by-1-500-with-webpack-and-vue.md)
   * [Where is NOTEPAD in Windows 10?](for-fun/articles/where-is-notepad-in-windows-10.md)
+* [quotes](for-fun/quotes.md)
 

@@ -13,14 +13,12 @@ This of course requires knowing both the name and port of the proxy.
 
 Your modified git config will look like this:
 
-{% code-tabs %}
-{% code-tabs-item title="~/.gitconfig" %}
+{% code title="~/.gitconfig" %}
 ```text
 [url "https://github.com/"]
     insteadof = git://github.com/
 [http "https://github.com"]
     proxy = http://yourproxy:8080
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 

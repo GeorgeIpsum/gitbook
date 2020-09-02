@@ -77,7 +77,9 @@ Example: consider strings built of two letters a and b \(both can occur many tim
       </td>
     </tr>
   </tbody>
-</table>Final string is **abaababa**. The simultaneous replacement is important here because it means replacement is done on individual derivation steps.
+</table>
+
+Final string is **abaababa**. The simultaneous replacement is important here because it means replacement is done on individual derivation steps.
 
 ### Formal definition
 

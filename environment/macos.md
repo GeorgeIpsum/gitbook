@@ -45,8 +45,7 @@ brew install caskroom/cask/brew-cask
 brew bundle
 ```
 
-{% code-tabs %}
-{% code-tabs-item title="Brewfile" %}
+{% code title="Brewfile" %}
 ```text
 tap homebrew/core
 tap homebrew/dupes
@@ -97,8 +96,7 @@ brew trash
 brew watch
 brew sass/sass/sass
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ### Execute Caskfile
 
@@ -106,8 +104,7 @@ brew sass/sass/sass
 brew bundle Caskfile
 ```
 
-{% code-tabs %}
-{% code-tabs-item title="Caskfile" %}
+{% code title="Caskfile" %}
 ```text
 tap homebrew/cask-fonts
 
@@ -138,6 +135,5 @@ cask qlmarkdown
 cask quicklook-json
 cask xquartz
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
