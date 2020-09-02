@@ -1,5 +1,5 @@
 ---
-description: as in http. I really don't need to document the social kind...
+description: as in http. I really don't document the social kind...
 ---
 
 # networking

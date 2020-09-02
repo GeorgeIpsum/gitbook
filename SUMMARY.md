@@ -85,7 +85,6 @@
 
 * [dota](games/dota.md)
 * [pokemon](games/pokemon.md)
-* [minecraft](games/minecraft.md)
 
 ## For Fun
 
